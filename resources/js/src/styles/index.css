@@ -1,0 +1,12 @@
+body {
+    background-image: url(./assets/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+
+.modal {
+    width: 90%;
+    height: 90%;
+}
