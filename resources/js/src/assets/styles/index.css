@@ -1,0 +1,19 @@
+body {
+    background-image: url(../images/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+
+.brillo{
+    position:relative;
+    display: block;
+    height: 133px;
+    width: 132px;
+    text-decoration:none;
+    overflow:hidden;
+}
+
+
+
